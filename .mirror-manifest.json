@@ -3,15 +3,15 @@
   "canonical_repository": "prest4u/eric-agent-skills",
   "skill": "eric-pdf",
   "version": "1.0.1",
-  "source_commit": "b099eccddf74ec6a4aef3376fb281b70c867475d",
+  "source_commit": "dc360d012f77bd665727260ee0cd4b41e4ce966f",
   "managed_files": {
     ".gitignore": "3dd71c21fdccd3e9ba02947edb9e5dc0a1935919bcf3d69076398518149376c2",
     "CONTRIBUTING.md": "1c705a48aeeab2061e6578c2c6b8bf57ba7349586da59745a2430a36d8e2a7f6",
     "LICENSE": "5c22156d56eba148899e472b10cf1662e6387d1b7f5aec552d9772fc29579ebe",
-    "README.md": "71bab3af43f25029f4da50ccc53841c5f46528cfbee69a72ac291341ac47aa11",
+    "README.md": "a86e9b1b432bda65af71f0fd22710f32d73a531fdba72757c22f16200460d00f",
     "SECURITY.md": "a48a4a92a24aba36c77410a6c57aee63a54e086274331b7bd097eb89ac8bf2c6",
     "SKILL.md": "5e495ab3be86e6cad196de9211de0a58199ed57dc7dd876a1e67c6a79f2014a8",
-    "THIRD_PARTY_NOTICES.md": "9db426aab5d3f9aa0c65fdae33ccbaf05ca9f43b3c1b85cd2aa9ff96656679bd",
+    "THIRD_PARTY_NOTICES.md": "97f49a940b9e8634def71a102efd4f536d580787772b54ad2f94d835e803933b",
     "agents/openai.yaml": "9e77487e2435923f9a43e0f270209a9b333c2c8a77d7d8848653dbf081974839",
     "assets/_demo_rendered_pages/page-01.png": "187838a7bbd60f9b7afbaddb439acd1d39d58a07fbe458d2bbd0b632e4621a3c",
     "assets/_demo_rendered_pages/page-02.png": "1704defac5bb649c5d06e055555b4b20fd93dc3f7484954ac4abb1ce00c92767",
@@ -57,7 +57,7 @@
     "scripts/test_build_eric_pdf.py": "9db67123f00540ef1ce0826fe88f83dd1b6951651b676d8efc64304bd9e591b6",
     "scripts/test_eric_pdf.py": "58331ffd7c9555c4e81fb9e27e7355ecea9f01fe1afbb7d1601bb0920b9aa941",
     "scripts/test_qa_eric_pdf.py": "a439f5558b6efaa694306002db99da50d32c91168bea9af57ce5f00b446c8b7c",
-    "scripts/validate_skill_gates.py": "334ba972e81b0c11b408bb757d4b2e9619852063d4398d94ac1dad171cc63226",
+    "scripts/validate_skill_gates.py": "45a86950fb9a63522595979ea5e575d0cc5d8525f52924059b7c85f781fa6e9c",
     "test-prompts.json": "b698c0a1f159fc5490df46d710009c10b37f6a38e65ddf151131de955a2b5081"
   }
 }
